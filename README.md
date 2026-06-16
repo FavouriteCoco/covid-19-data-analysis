@@ -18,7 +18,10 @@ This project analyzes global COVID-19 data to understand trends in cases, deaths
 ---
 
 ## 📈 Dashboard Preview
-(Add image here)
+![COVID Excel Clean](covid_excel.png)
+![COVID SQL](covid_sql.png)
+![COVID National Dashboard](covid_powerbii.png)
+![COVID State Dashboard](covid_powerbi.png)
 
 ---
 
